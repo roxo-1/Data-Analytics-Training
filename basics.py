@@ -6,6 +6,5 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Loading Data
-df = pd.read_csv('pokemon_complete.csv')
-# for excel files do: df = pd.read_excel('pokemon_complete.xlsx')
+df = pd.read_csv('Chocolate Sales.csv')
 df.head() # shows the first five rows
